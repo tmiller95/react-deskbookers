@@ -1,0 +1,21 @@
+.list-container {
+    width: 65%;
+    float: left;
+    height: 100%;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    padding: 10px;
+}
+
+.list-header {
+    font-size: 16px;
+    padding: 5px 0px 15px;
+}
+
+.list-loading {
+    text-align: center;
+    margin-top: 40px;
+    color: #aaa;
+    font-weight: 500;
+    font-size: 16px;
+}

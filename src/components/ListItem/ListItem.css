@@ -1,0 +1,25 @@
+.listItem-container {
+    border-radius: 3px;
+    margin-bottom: 20px;
+}
+
+.listItem-image {
+    height: 100%;
+    width: 100%;
+    border-radius: 4px;
+    margin-bottom: 6px;
+}
+
+.listItem-title {
+    color: #333;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    margin-top: 4px;
+}
+
+.listItem-detail {
+    color: #333;
+    font-weight: 300;
+    font-size: 14px;
+}
